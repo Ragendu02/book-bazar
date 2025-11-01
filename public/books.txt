@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "Self Help",
+    "publisher": "Penguin",
+    "price": 350.0
+  },
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "Programming",
+    "publisher": "Pearson",
+    "price": 600.0
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Fiction",
+    "publisher": "HarperCollins",
+    "price": 300.0
+  },
+  {
+    "title": "Effective Java",
+    "author": "Joshua Bloch",
+    "genre": "Programming",
+    "publisher": "Addison-Wesley",
+    "price": 750.0
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "genre": "Psychology",
+    "publisher": "Farrar",
+    "price": 480.0
+  },
+  {
+    "title": "You Can Win",
+    "author": "Shiv Khera",
+    "genre": "Self Help",
+    "publisher": "Macmillan",
+    "price": 260.0
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "publisher": "Bloomsbury",
+    "price": 420.0
+  },
+  {
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "genre": "Productivity",
+    "publisher": "Grand Central",
+    "price": 390.0
+  },
+  {
+    "title": "Zero to One",
+    "author": "Peter Thiel",
+    "genre": "Business",
+    "publisher": "Crown",
+    "price": 410.0
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "genre": "Programming",
+    "publisher": "Addison-Wesley",
+    "price": 720.0
+  },
+  {
+    "title": "Ikigai",
+    "author": "Francesc Miralles",
+    "genre": "Self Help",
+    "publisher": "Penguin",
+    "price": 320.0
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Classic",
+    "publisher": "J.B. Lippincott",
+    "price": 280.0
+  },
+  {
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "genre": "Finance",
+    "publisher": "Harriman House",
+    "price": 360.0
+  },
+  {
+    "title": "The Power of Now",
+    "author": "Eckhart Tolle",
+    "genre": "Spirituality",
+    "publisher": "New World Library",
+    "price": 300.0
+  },
+  {
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "genre": "Self Help",
+    "publisher": "Harper",
+    "price": 340.0
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "publisher": "Allen & Unwin",
+    "price": 450.0
+  },
+  {
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert Kiyosaki",
+    "genre": "Finance",
+    "publisher": "Plata Publishing",
+    "price": 290.0
+  },
+  {
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "genre": "History",
+    "publisher": "Harper",
+    "price": 500.0
+  },
+  {
+    "title": "Start With Why",
+    "author": "Simon Sinek",
+    "genre": "Business",
+    "publisher": "Portfolio",
+    "price": 380.0
+  },
+  {
+    "title": "Dare to Lead",
+    "author": "Brené Brown",
+    "genre": "Leadership",
+    "publisher": "Random House",
+    "price": 430.0
+  }
+]
